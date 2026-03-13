@@ -1,4 +1,4 @@
-# 🏡House Price Prediction using Machine Learning
+# 🏡House Price Prediction
 
 An end-to-end machine learning project that predicts residential house prices by applying structured data analysis, feature engineering, and regression modeling on real-world housing data.
 
