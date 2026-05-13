@@ -83,11 +83,4 @@ Ensemble-based models demonstrated better performance compared to baseline regre
 - Hyperparameter tuning  
 - Cross-validation  
 - Model deployment using Streamlit / Flask  
-- Feature importance visualization  
-
----
-
-## 👤 Author
-
-**Rakesh Meka**  
-AI & Data Science Enthusiast!
+- Feature importance 
